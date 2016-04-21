@@ -1,3 +1,4 @@
+import javax.swing.JOptionPane;
 
 public class main {
 
@@ -5,6 +6,10 @@ public class main {
 		// TODO Auto-generated method stub
 
 		System.out.println("Testing");
+		
+		JOptionPane.showConfirmDialog(null, "Git Rules!");
+		
+		
 	}
 
 }
