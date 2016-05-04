@@ -12,6 +12,8 @@ public class main {
 		System.out.println("Testing");
 		
 		System.out.println("Testing new branchs");
+		
+		System.out.println("Adding new feature branch (feature2)");
 	}
 
 }
