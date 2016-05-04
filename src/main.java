@@ -10,6 +10,8 @@ public class main {
 		JOptionPane.showConfirmDialog(null, "Git Rules!");
 		
 		System.out.println("Testing");
+		
+		System.out.println("Testing new branchs");
 	}
 
 }
